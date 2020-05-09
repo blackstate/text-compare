@@ -1,0 +1,76 @@
+.bg-color{
+    background-color: #EB5160;
+}
+.navbar-customwhite{
+    color: #F0F7EE;
+}
+nav, .fortitle{
+    color: #f0f7ee;
+    font-size: 18pt;
+}
+body {
+    color: #1f1f1f;
+}
+h1 {
+    margin-top: 40px;
+}
+textarea{
+    max-width: 8in;
+    resize: none;
+} 
+h1 {
+    text-align: center;
+}
+.arealeft{
+    margin-left: 20px;
+    float: left;
+}
+.arearight{
+    float: right;
+    margin-right: 20px;
+}
+label{
+    font-size: 16pt;
+}
+form{
+    padding-top: 30px;
+    margin: 0 auto; 
+    width:1000px;
+}
+form.indexsubmit{
+    text-align: center;
+}
+.spacebutton{
+    margin-top: 25px;
+}
+div.about{
+    max-width: 500px;
+    margin: auto;
+}
+div.abouttop{
+    margin-top:120px;
+}
+div.feedbacktop{
+    margin-top:50px;
+}
+.aboutsize{
+    font-size: 32pt;
+}
+input{
+    max-width: 400px;
+}
+.fbmax{
+    max-width: 150px;
+    text-align: center;
+}
+div.formpadding{
+    padding-left: 20px;
+    font-size: 14pt;
+}
+textarea.feedbacktxt{
+    max-width: 400px;
+}
+.button{
+    max-width: 100px;
+    margin-top: 20px;
+}
